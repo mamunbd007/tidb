@@ -52,9 +52,8 @@ require (
 	github.com/sirupsen/logrus v1.2.0
 	github.com/soheilhy/cmux v0.1.4
 	github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72
-	github.com/struCoder/pidusage v0.1.2
 	github.com/tiancaiamao/appdash v0.0.0-20181126055449-889f96f722a2
-	github.com/uber-go/atomic v1.3.2 // indirect
+	github.com/uber-go/atomic v1.3.2
 	github.com/uber/jaeger-client-go v2.15.0+incompatible
 	github.com/uber/jaeger-lib v1.5.0 // indirect
 	github.com/unrolled/render v0.0.0-20180914162206-b9786414de4d // indirect
@@ -62,12 +61,11 @@ require (
 	go.uber.org/atomic v1.5.0
 	go.uber.org/automaxprocs v1.2.0
 	go.uber.org/zap v1.12.0
-	golang.org/x/crypto v0.0.0-20191206172530-e9b2fee46413 // indirect
-	golang.org/x/net v0.0.0-20190909003024-a7b16738d86b
-	golang.org/x/sys v0.0.0-20191210023423-ac6580df4449
-	golang.org/x/text v0.3.2
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
+	golang.org/x/text v0.7.0
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
-	golang.org/x/tools v0.0.0-20191107010934-f79515f33823
+	golang.org/x/tools v0.1.12
 	google.golang.org/genproto v0.0.0-20190905072037-92dd089d5514 // indirect
 	google.golang.org/grpc v1.25.1
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
